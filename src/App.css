@@ -1,0 +1,35 @@
+/* 
+*,*::before,*::after{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #e5e5e5;
+}
+
+h1{
+	text-align: center;
+	color: darkred;
+}
+
+#container{
+	margin: 5em;
+
+}
+
+.todo{
+	margin-top: 2em;
+	display: flex;
+	justify-content: space-between;
+	
+}
+ #input{
+    border: 1px outset red;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 1rem;
+ 	  width: 90%;
+ 	  padding: 0.5em;
+ 	
+ } */
