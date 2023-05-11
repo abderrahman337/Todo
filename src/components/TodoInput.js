@@ -9,6 +9,7 @@ const TodoInput = ({createTodo}) => {
       createTodo(task);
       setTask("");
     };
+    
    return (
        <form className= "TodoInput" onSubmit={handleSubmit}>
         <input
